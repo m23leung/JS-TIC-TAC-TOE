@@ -1,1 +1,1 @@
-# JS-TIC-TAC-TOE
+# Javascript Tic-Tac-Toe Game
